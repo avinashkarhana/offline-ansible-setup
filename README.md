@@ -1,4 +1,10 @@
-# Ansible Setup
+# Offline Ansible Setup
+
+Offline Ansible setup script for RHEL, CentOS, and Fedora.
+
+- Can be used on locked down systems where internet access is not available, except yum repositories.
+
+- All packages are downloaded from the official repositories and their checksums can be verified from the official repositories.
 
 ## Note
 
